@@ -1,0 +1,74 @@
+/* methana body wenuwata all(*) dammoth box ekata color eka daganna ba. */
+body{
+    margin:0;
+    padding: 0;
+    background-image: url("beans.jpg");
+    font-family:sans-serif ;
+   
+}
+
+div{
+    width: 550px;
+    background-color: burlywood;
+    padding: 0.5px;
+    /* to center the box */
+    margin: 20px auto;
+    
+}
+
+h1{
+    font-size: 40px;
+}
+
+h1,h2{
+    font-family: Impact, serif;
+    text-align: center;
+}
+
+.subtop{
+    font-style: italic;
+    text-align: center;
+}
+
+hr{
+    background-color: brown;
+    border-color: brown;
+    height: 2px;
+    width: 520px;
+}
+
+img{
+    /* to center the image */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table{
+    width:520px;
+    margin: auto;
+    font-size: large;
+}
+
+.price{
+    text-align: right;
+}
+
+td{
+    padding: 3px;
+}
+
+.flink, .ftext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a:link{
+    color: black;
+
+}
+
+a:visited{
+    color: black;
+}
